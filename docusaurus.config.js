@@ -22,6 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'nusatheme', // Usually your GitHub org/user name.
   projectName: 'nusatheme.github.io', // Usually your repo name.
+  deploymentBranch: 'prod',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
