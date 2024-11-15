@@ -1,5 +1,5 @@
 # Typed Text
-An individual text for the animated headline block. Only available for [Animated Headline](./animated-headline.md) block
+An individual text for the animated headline block. Only available as inner block for [Animated Headline](./animated-headline.md) block
 
 ## Settings
 - Typing Speed

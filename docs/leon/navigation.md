@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 # Navigation
 
 In a WordPress block theme, adding and editing navigation is straightforward. You can create and manage navigation menus directly in the editor. To add a navigation menu in a block theme, go to the WordPress Dashboard, then navigate to **Appearance → Editor**. Within the editor, click the + icon to open the inserter and look for the Navigation Block. Once added, you can insert links to pages, posts, categories, or even custom links by clicking Add Link. You can also organize the links by dragging and dropping them into the preferred order or nesting them for dropdown menus

@@ -7,4 +7,4 @@ Display your professional experience or education with an icon, year, title, and
 
 - Group
 - Paragraph
-- Block Icon
+- [The Icon Block](https://wordpress.org/plugins/icon-block/)

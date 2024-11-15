@@ -7,7 +7,7 @@ sidebar_position: 4
 ## Block
 In WordPress, a block is a modular content element that allows you to create and arrange content on your website with ease and flexibility. Each block represents a distinct type of content and style, such as paragraphs, images, headings, galleries, videos, and more. 
 
-If you need more information about how to using blocks in Wordpress, you can check out these resources below, including video tutorial, a complete list of available blocks, and a detailed guide of block editor.
+If you need more information about how to using blocks in Wordpress, you can check out these resources below.
 - [Video on the Block Editor](https://www.youtube.com/watch?v=jA6AbrVwd3o): Learn how to use the WordPress block editor through this helpful video tutorial.
 - [List of Available Blocks](https://wordpress.org/documentation/article/blocks-list/): Explore the wide variety of blocks that Wordpress offers that you can add to your posts and pages.
 - [Guide to the WordPress Block Editor](https://wordpress.org/documentation/article/wordpress-block-editor/): Get more overview of Wordpress block editor, including features and tips to help you editing your site. 
