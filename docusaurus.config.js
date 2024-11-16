@@ -64,7 +64,7 @@ const config = {
         title: 'NusaTheme',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/nusa-logo.png',
         },
         // items: [
         //   { to: '/blog', label: 'Blog', position: 'left' },

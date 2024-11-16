@@ -5,7 +5,7 @@ Designed to showcase your portfolio. It allows you to upload an image, add a tit
 ![project box](/img/leon/project-box-1.jpg)
 ![project box settings](/img/leon/project-box-2.jpg)
 
-## Settings and Properties
+## Settings 
 
 - Title
 - Sub Text

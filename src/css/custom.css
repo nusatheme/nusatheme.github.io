@@ -43,3 +43,7 @@ li img {
 .footer--dark {
   --ifm-footer-background-color: #0b0c0e;
 }
+
+.theme-doc-img {
+  margin-bottom: 1rem;
+}
