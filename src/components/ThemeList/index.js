@@ -4,19 +4,20 @@ import clsx from "clsx";
 
 const Themes = [
   {
-    name: 'Leon',
-    url: 'docs/leon/'
+    name: 'Leon | Wordpress Theme',
+    url: 'docs/leon/',
+    imgUrl: '/img/leon/cover.jpg'
   }
 ];
 
-function Theme({ name, url }) {
+function Theme({ name, url, imgUrl }) {
   return (
-    <div className='theme-doc'>
+    <div className='col col--4 theme-doc'>
       <Link
         className=""
         to={url}>
         <div className='theme-doc-img'>
-          <img src='' alt='' />
+          <img src={imgUrl} alt='' />
         </div>
         <div className='text--center'>
           <Heading as="h3">{name}</Heading>
