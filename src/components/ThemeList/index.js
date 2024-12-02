@@ -7,6 +7,11 @@ const Themes = [
     name: 'Leon | Wordpress Theme',
     url: 'docs/leon/',
     imgUrl: '/img/leon/cover.jpg'
+  },
+  {
+    name: 'Mora | Wordpress Theme',
+    url: 'docs/mora/',
+    imgUrl: '/img/mora/cover.jpg'
   }
 ];
 
