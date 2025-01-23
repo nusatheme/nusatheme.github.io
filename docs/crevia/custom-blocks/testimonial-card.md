@@ -1,18 +1,26 @@
 # Testimonial Card
 
-The Testimonial Card block is a user-friendly block designed for presenting client testimonials on your website. With fields for the client's name, job title, and review, this block provides a professional, structured format for displaying customer feedback. Perfect for portfolio pages, business websites, or any section where you want to highlight positive client experiences.
+The Testimonial Card block allows you to showcase client reviews on your WordPress site. This block is customizable and can be styled to fit the design of your website.
 <br />
-![testimonial-card](/img/mora/testimonial-card-1.jpg)
+![testimonial-card](/img/crevia/custom-block-testimonial-card-1.jpg)
 
-## Settings
 
-- Client Name
-- Client Job
-- Client Image
-  <br/>
-  ![testimonial-card-setting-1](/img/mora/testimonial-card-2.jpg)
-  ![testimonial-card-setting-2](/img/mora/testimonial-card-3.jpg)
+## Features
+- **Customizable Styles**: Choose from different styles for the testimonial card.
+- **Quote Icon Color**: Customize the color of the quote icon.
+- **Inner Blocks**: Add and format text within the testimonial card.
 
-## Inner Blocks
 
-- Paragraph
+## How to Use
+1. **Add the Block**:
+- In the WordPress editor, click the "+" button to add a new block.
+- Search for "Testimonial Card" and select the block.
+2. **Add Client Review**:
+- Click inside the testimonial card to add a paragraph block.
+- Enter the client's review text.
+3. **Customize the Block**:
+- Card Style: In the block settings panel on the right, choose a style for the testimonial card from the "Card Style" dropdown.
+- Quote Icon Color: Set the color of the quote icon using the color picker in the block settings.
+4. **Save and Publish**:
+- Once you have customized the block to your liking, save your changes and publish the post or page.
+

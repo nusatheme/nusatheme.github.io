@@ -7,6 +7,11 @@ const Themes = [
     name: 'Mora | Wordpress Theme',
     url: 'docs/mora/',
     imgUrl: '/img/mora/cover.jpg'
+  },
+  {
+    name: 'Crevia | Wordpress Theme',
+    url: 'docs/crevia/',
+    imgUrl: '/img/crevia/cover.png'
   }
 ];
 

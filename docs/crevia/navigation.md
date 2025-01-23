@@ -17,9 +17,9 @@ To set up and customize the navigation menu in this theme's header, follow these
 
 1. Go to **Appearance → Editor** in your WordPress dashboard.
 2. Go to **Pattern → Header** then Select the Header template part to access the header section of this theme.
-   ![navigation step 2](/img/mora/navigation-step-2.jpg)
+   ![navigation step 2](/img/crevia/navigation-step-2.jpg)
 3. Click on the Navigation Block within the header.
 4. Add your own links, reorder them, or adjust settings as needed. 
-   ![navigation step 4](/img/mora/navigation-step-4.jpg)
+   ![navigation step 4](/img/crevia/navigation-step-4.jpg)
 5. Review and save changes to ensure your navigation menu aligns with your website's structure and style.
 

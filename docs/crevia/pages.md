@@ -1,21 +1,20 @@
 ---
 sidebar_position: 8
 ---
-# Pages
-This theme comes with several handy page templates to help you set up your site with ease and style
+# Page and Post Template
+Page templates define the layout and structure of your content on specific pages. For example, they can include or exclude sidebars, headers, or footers to achieve a particular design or functionality. This theme comes with several handy page templates to help you set up your site with ease and style.
+
+## Single Post with Sidebar
+By default, all single posts are displayed using the sidebar template.
+
+## Single Post Full Width
+You can display your single post using the full-width template.
 
 ## Page No Title
-A clean and simple template that shows only the content without a page title, making it a great option for landing pages or showing multiple sections. 
-
-![project box](/img/mora/page-no-title.jpg)
-
-
-## Project Detail Page
-Designed to showcase your projects detail, this template is perfect for portfolio items and it can also be used for other types of content. 
-
-![project box](/img/mora/project-detail-page.jpg)
-
+A clean and simple template that shows only the content without a page title, making it a great option for landing pages or showing multiple sections, such as services, testimonials, or contact forms.
 
 ## Page with Sidebar
-This template includes a sidebar, similar to the one used in single post templates. It’s great for pages where you need additional navigation or widgets to complement the main content.
+This template includes a sidebar, similar to the one used in single post templates. Sidebars are typically used for navigation links, recent posts, search bars, or custom widgets like social media feeds. It’s great for pages where you need additional navigation or widgets to complement the main content.
+
+
 

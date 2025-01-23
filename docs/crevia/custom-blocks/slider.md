@@ -4,27 +4,34 @@ The Swiper Slider block is a customizable slider powered by Swiper.js, allowing 
 
 <br/>
 
-![slider](/img/mora/slider.jpg)
+![slider](/img/crevia/custom-block-slider-1.jpg)
 
 ## Settings
 
-- Show Navigation
-- Show Pagination
-- Speed
-- Autoplay
-- Slides Per View
-- Space Between Slide
+1. **Control Options**:
+    - **Show Navigation**: Enable/disable navigation arrows.
+    - **Show Pagination**: Enable/disable pagination indicators.
+    - **Pagination Types**: Choose between "Bullet" or "Fraction."
+    - **Control Placement**: Configure control position: "Below Slides" or "On Top the Slides."
+    - **Control Color**: Customize the color of controls using a color picker.
+2. **Autoplay Settings**:
+    - Toggle autoplay functionality.
+    - Configure delay between transitions (3000ms to 8000ms).
+3. **Responsive Settings**:
+    - Configure slides per view and spacing for desktop, tablet, and mobile devices.
+4. **Custom Inserter**:
+    - Add new slides dynamically using a custom "Add New Slide" button.
 
 ## Inner Blocks
 
-- Slider Item
+- Slide Item
 
 ## How to Create New Slider
 1. Open the block inserter by clicking the + icon, search for **Swiper Slider** in the search bar, and select the Swiper Slider block.
-![slider step 1](/img/mora/slider-step-1.jpg)
+![slider step 1](/img/crevia/custom-block-slider-step-1.jpg)
 2. Click **Add New Slide** to create a slide item, then click **Add Content to Slide** to add content. You can insert any block within each slide, such as paragraphs, headings, images, or other blocks. For this tutorial, let’s add a [testimonial card](./testimonial-card.md)
-![slider step 2](/img/mora/slider-step-2.jpg)
+![slider step 2](/img/crevia/custom-block-slider-step-2.jpg)
 3. To add more slides quickly, duplicate the first slide as many times as needed, then adjust the content of each slide. Be sure to disable autoplay temporarily to make editing easier.
-![slider step 3](/img/mora/slider-step-3.jpg)
+![slider step 3](/img/crevia/custom-block-slider-step-3.jpg)
 4. Finally, adjust the slider settings in the right sidebar to match your preferences.
-![slider step 4](/img/mora/slider-step-4.jpg)
+![slider step 4](/img/crevia/custom-block-slider-step-4.jpg)

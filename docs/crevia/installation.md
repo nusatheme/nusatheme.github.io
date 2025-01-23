@@ -40,8 +40,8 @@ Configuring these values helps prevent errors during installation and ensures op
 ## Theme Installation
 
 ### Unzip the package
-After purchasing the theme from Themeforest, make sure to unzip the downloaded package first and find the theme zip file. Some of the folder names may slightly different.
-If you try to install the wrong files, you will get the missing style.css error. This is the most common error that means you are trying to install an incorrect package.
+After purchasing the theme from Themeforest, make sure to **unzip the downloaded package first** and find the theme zip file. Some of the folder names may slightly different.
+If you try to install the wrong files, you will get the missing `style.css` error. This is the most common error that means you are trying to install an incorrect package.
 
 
 ### Upload to Wordpress Admin Dashboard
@@ -51,11 +51,13 @@ If you try to install the wrong files, you will get the missing style.css error.
 4. When the theme is installed, a prompt will appear with an option to activate it immediately. Simply click the Activate link, and your new theme will be live, ready for you to customize and build out your site!
 
 
+<iframe src="https://drive.google.com/file/d/11my-5Cdrg-TlNAhHX44fWKO4_0v7-XKm/preview" width="800" height="450" allow="autoplay"></iframe>
+
 ## Plug-ins Installation
 
 The following plugins are required for this theme to function optimally. Please ensure they are installed and activated to fully unlock all features and enhance your website’s capabilities.
-- **Mora Core**<br/>
-  Installing the **Mora Core** plugin is essential for using this theme’s custom blocks. This core plugin provides a variety of custom blocks that add functionality and design options to your site. Without it, the custom blocks won’t be available. Learn more about the features it provides on this [custom blocks page](/docs/category/custom-blocks).
+- **Crevia Core**<br/>
+  Installing the **Crevia Core** plugin is essential for using this theme’s custom blocks. This core plugin provides a variety of custom blocks that add functionality and design options to your site. Without it, the custom blocks won’t be available. Learn more about the features it provides on this [custom blocks page](/docs/category/custom-blocks).
 
 
 - **[The Icon Block](https://wordpress.org/plugins/icon-block/) by Nick Diego**<br/>
@@ -83,8 +85,7 @@ You can combine multiple patterns to achieve the exact look you want, then custo
 2. Create a new page by clicking **Add New**.
 3. In the page settings, change the template to **Page No Title**.
 4. Click the + icon to open the block inserter.
-5. In the search bar, type **Main Home**.
-6. Select the **Main Home** pattern from the results.
+5. In the search bar, type pattern name like **Home**.
+6. Select the pattern you want to add from the results.
 7. Customize the content as needed to suit your preferences.
-
-<iframe src="https://drive.google.com/file/d/1W6pejnFy3WyWRc6Qf5uVvU1sIVTvMIhz/preview" width="800" height="450" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1JfpeXlcwa8BgSeUm4YzVoA69UOhbbSQ_/preview" width="800" height="450" allow="autoplay"></iframe>

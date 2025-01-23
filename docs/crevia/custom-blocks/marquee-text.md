@@ -3,11 +3,9 @@ The Marquee Text block is a dynamic custom block that brings a classic marquee e
 
 Use the Marquee Text block to add a visually engaging element that captures attention and provides an interactive, modern twist to your website's content.
 
-![marquee-text](/img/mora/marquee-text.jpg)
+![marquee-text](/img/crevia/custom-block-marquee-text-1.jpg)
 
 ## Setttings
-- Color
-- Background Color
 - Animation Duration
 - Paused on Hover
 

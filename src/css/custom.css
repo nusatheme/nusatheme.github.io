@@ -47,3 +47,9 @@ li img {
 .theme-doc-img {
   margin-bottom: 1rem;
 }
+.markdown li > p {
+  margin-bottom: 0;
+}
+.markdown li > p:nth-child(2) {
+  margin-top: 0;
+}
