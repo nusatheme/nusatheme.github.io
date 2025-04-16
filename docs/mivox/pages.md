@@ -18,7 +18,7 @@ To use the Landing template on any page:
 
 2. In the right sidebar, scroll to the **Template** section under the Page tab.
 
-3. Click the dropdown and select **swap template**
+3. Click the dropdown and select **Change template** or **swap template**
 4. In the modal that appears, choose Landing from the available templates.
 
 5. Click **Save** or **Publish** to apply the changes.
