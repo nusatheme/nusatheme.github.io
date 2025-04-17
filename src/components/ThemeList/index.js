@@ -1,6 +1,5 @@
 import Heading from '@theme/Heading';
 import Link from '@docusaurus/Link';
-import clsx from "clsx";
 
 const Themes = [
   {
@@ -9,9 +8,9 @@ const Themes = [
     imgUrl: '/img/mora/cover.jpg'
   },
   {
-    name: 'Crevia | Wordpress Theme',
-    url: 'docs/crevia/',
-    imgUrl: '/img/crevia/cover.png'
+    name: 'Mivox | Wordpress Theme',
+    url: 'docs/mivox/',
+    imgUrl: '/img/mivox/cover.jpg'
   }
 ];
 
