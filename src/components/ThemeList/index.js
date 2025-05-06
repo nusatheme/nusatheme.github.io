@@ -8,9 +8,9 @@ const Themes = [
     imgUrl: '/img/mora/cover.jpg'
   },
   {
-    name: 'Mivox | Wordpress Theme',
-    url: 'docs/mivox/',
-    imgUrl: '/img/mivox/cover.jpg'
+    name: 'Zaya | Wordpress Theme',
+    url: 'docs/zaya/',
+    imgUrl: '/img/zaya/cover.jpg'
   }
 ];
 
