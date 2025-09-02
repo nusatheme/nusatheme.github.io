@@ -4,7 +4,7 @@ The Swiper Slider block is a customizable slider powered by Swiper.js, allowing 
 
 <br/>
 
-![slider](/img/nomadica/slider.png)
+![slider](/img/nomadica/slider.jpg)
 
 ## Settings
 

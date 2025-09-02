@@ -10,35 +10,23 @@ For step-by-step guidance on setting up a menu with the Navigation Block, watch 
 :::
 
 
-## Theme Header Navigation
-This theme has included part header which includes a Navigation Block. This setup means you can customize the menu directly within the header area by adding links to pages, posts, categories, or custom links as needed.
+## Add Navigation to Header
+This theme has included 3 header parts (main, sticky, mobile) which includes a Navigation Block. This setup means you can customize the menu directly within the header area by adding links to pages, posts, categories, or custom links as needed.
 
-To set up and customize the navigation menu in this theme's header, follow these steps.
+To set up and customize the navigation menu in this theme, follow these steps.
 
 1. Go to **Appearance → Editor** in your WordPress dashboard.
-2. Go to **Pattern → Header** then Select the Header template part to access the header section of this theme.
+2. Go to **Pattern → Header** then Select the Header template part to access the navigation section of this theme.
    ![navigation step 2](/img/nomadica/navigation-step-2.jpg)
-3. Click on the Navigation Block within the header.
+3. Select a Navigation Menu
+   -  Click on the Navigation block.
+   -  In the right sidebar, click the three-dot next to the **Menu**.
+   -  Choose your navigation menu from the list.
+   ![navigation step 4](/img/nomadica/navigation-step-3.jpg)
 4. Add your own links, reorder them, or adjust settings as needed. 
-   ![navigation step 4](/img/nomadica/navigation-step-4.png)
+   ![navigation step 4](/img/nomadica/navigation-step-4.jpg)
 5. Review and save changes to ensure your navigation menu aligns with your website's structure and style.
 
-
-## Offcanvas Header Navigation
-This theme also includes an Offcanvas Header, designed to provide a modern and mobile-friendly navigation experience. Just like the standard header navigation, it uses the Navigation Block, allowing you to fully customize the menu items.
-
-To set up and customize the navigation in the offcanvas header, follow this step
-1. Click the hamburger menu icon on the top header to open the offcanvas menu. 
-   ![offcanvas header navigation](/img/nomadica/offcanvas-header-step-1.jpg)
-2. Select a Navigation Menu 
-   -  Click on the Navigation block from the left sidebar.
-   -  In the right sidebar, click the three-dot next to the **Menu**.
-   -  Choose your desired navigation menu from the list.
-   ![offcanvas header navigation](/img/nomadica/offcanvas-header-step-2.jpg)
-3. Once your navigation is added to the offcanvas header, you can edit the menu items, change the layout, or adjust design settings using the block options.
-   ![offcanvas header navigation](/img/nomadica/offcanvas-header-step-3.jpg)
-:::info
-The offcanvas menu is usually triggered by a menu icon (hamburger icon) on smaller screens
+:::tip
+You can repeat these steps to add menu in other template parts like **Header Sticky** and **Header Mobile Navigation**. Make sure your navigation structure in all header parts stays consistent for a seamless user experience.
 :::
-
-Make sure your navigation structure in both the regular header and the offcanvas menu stays consistent for a seamless user experience.

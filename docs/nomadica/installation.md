@@ -57,38 +57,48 @@ If you try to install the wrong files, you will get the missing ```style.css``` 
 
 The following plugins are required for this theme to function optimally. Please ensure they are installed and activated to fully unlock all features and enhance your website’s capabilities.
 - **Nomadica Core**<br/>
-  Installing the **Nomadica Core** plugin is essential for using this theme’s custom blocks. This core plugin provides a variety of custom blocks that add functionality and design options to your site. Without it, the custom blocks won’t be available. Learn more about the features it provides on this [custom blocks page](/docs/category/custom-blocks).
-
+  Installing the **Nomadica Core** plugin is essential for using this theme’s custom blocks. This core plugin provides a variety of custom blocks that add functionality and design options to your site. Without it, the custom blocks won’t be available. Learn more about the features it provides on this [custom blocks page](/docs/category/custom-blocks-2).
 
 - **[The Icon Block](https://wordpress.org/plugins/icon-block/) by Nick Diego**<br/>
   Icon Block is a flexible WordPress plugin that allows you to easily add icons to your content. Whether it be from the built in library of icons or by pasting in your own custom SVG code.
 
-  :::important
-  This Icon Block plugin is used in many part of the theme block pattern so make sure to install this plugin.
-  :::
-
-
 - **[Ninja Form](https://wordpress.org/plugins/ninja-forms/)** <br/>
-  Ninja Forms is a powerful and user-friendly WordPress plugin for building forms without any coding. It offers a drag-and-drop interface, customizable fields, and pre-built templates, making it easy to create contact forms, surveys, or any custom form. <br/>
-  This plugin is used to show contact form in the section contact, so if you're not planning to add section contact to your page, it's not necessary to install this plugin.
+  Ninja Forms is a powerful and user-friendly WordPress plugin for building forms without any coding. It offers a drag-and-drop interface, customizable fields, and pre-built templates, making it easy to create contact forms, surveys, or any custom form. 
+
+- **[One Click Demo Import](https://wordpress.org/plugins/one-click-demo-import/)** <br/>
+  One Click Demo Import is a simple and efficient WordPress plugin that allows you to quickly import demo content, widgets, and theme settings with a single click. It helps you set up your site to look exactly like the theme demo, making it easier to start customizing without building everything from scratch.  
+
+:::info
+**The Icon Block** plugin is used in many part of the theme block pattern so make sure to install this plugin.
+
+**Ninja Form** is used to show newsletter form in the section newsletter, so if you're not planning to add newsletter form to your page or you want to use other plugin for your form, it's not necessary to install this plugin.
+
+**One Click Demo Import** plugin is required to import the demo content for **Nomadica**. If you prefer to set up your site manually, you don’t need to install this plugin.
+:::
+<br/>
 
 ![install required plugins](/img/nomadica/install-required-plugin.webp)
 
 ## Demo Content
+To help you get started quickly, **Nomadica** includes demo content that you can import with just a few clicks. This will make your site look similar to the theme demo, so you can start customizing right away.
 
-With the latest block theme features in WordPress, creating a page similar to the demo no longer requires uploading demo content. Instead, you can use pre-designed patterns, which are ready-made sections and layouts specifically crafted to match the demo style. 
+### Before You Begin
+Make sure you have installed and activated the required plugin:  
+- [One Click Demo Import](https://wordpress.org/plugins/one-click-demo-import/)
 
-To build a page like the theme demo, simply go to the Block Inserter, select **Patterns**, and choose from the available layouts to add them to your page. 
+Without this plugin, the demo import option will not be available.
 
-You can combine multiple patterns to achieve the exact look you want, then customize text, images, and other settings as needed to fully personalize the design. This approach offers more flexibility and allows you to mix, match, and style your site effortlessly.
+### How to Import Demo Content
+1. Go to **Appearance → Import Demo Data** in your WordPress dashboard.  
+2. Click the **Import Demo Data** button.  
+3. Wait for the process to complete (this may take a few minutes depending on your hosting).  
+4. Once finished, your site will include demo pages, posts, menus, and widgets.  
 
-### How to Build a Page with Patterns
-1. Navigate to **Appearance** → **Editor** → **Pages** in your WordPress dashboard.
-2. Create a new page by clicking **Add New**.
-3. In the page settings, change the template to **Landing**.
-4. Click the + icon to open the block inserter.
-5. In the search bar, type **Home**.
-6. Select the **Home** pattern from the results.
-7. Customize the content as needed to suit your preferences.
+### After Import
+- Your site should now look similar to the **Nomadica demo**.  
+- You can start replacing the demo text and images with your own content.  
+- If you don’t need all the demo content, you can safely delete the pages or posts you don’t plan to use.  
 
-<iframe src="https://drive.google.com/file/d/1U6EkDRXyoAKhXqrqx98KkzSxldzMBw6i/preview" width="800" height="450" allow="autoplay"></iframe>
+:::info
+Importing demo content is **optional**. If you prefer to build your site from scratch, you can skip this step.
+:::
