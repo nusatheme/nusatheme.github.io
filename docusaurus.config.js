@@ -79,6 +79,13 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  stylesheets: [
+    {
+      href: "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Fira+Code:wght@400;500;700&display=swap",
+      type: "text/css",
+    },
+  ],
 };
 
 export default config;
