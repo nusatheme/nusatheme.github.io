@@ -3,14 +3,19 @@ import Link from '@docusaurus/Link';
 
 const Themes = [
   {
-    name: 'Mora | Wordpress Theme',
+    name: 'Mora - Wordpress Theme',
     url: 'docs/mora/',
     imgUrl: '/img/mora/cover.jpg'
   },
   {
-    name: 'Zaya | Wordpress Theme',
+    name: 'Zaya - Wordpress Theme',
     url: 'docs/zaya/',
     imgUrl: '/img/zaya/cover.jpg'
+  },
+  {
+    name: 'Nomadica - Wordpress Theme',
+    url: 'docs/nomadica/',
+    imgUrl: '/img/nomadica/cover.jpg'
   }
 ];
 
