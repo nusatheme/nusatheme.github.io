@@ -16,7 +16,7 @@ The Main Header includes your site title or logo, the primary navigation, dark l
 ![main header](/img/zaya/main-header.jpg)
 
 ### Make the Header Sticky
-1. Open Appearance > Editor > Patterns > Parts and choose **Header**.
+1. Open Appearance > Editor > Patterns > All template parts and choose **Header**.
 2. Select the Site Header group block (the wrapper).
 3. In the right sidebar settings, you’ll see a Sticky Header toggle.
 4. Switch it on to make your header sticky.
@@ -31,7 +31,7 @@ On the right, you’ll see a search block and a Categories List block that autom
 ![header search offcanvas](/img/zaya/header-search-offcanvas.jpg)
 
 ### Customize Header Search
-1. Go to Appearance > Editor > Patterns > Parts and then select **Header Search**.
+1. Go to Appearance > Editor > Patterns > All template parts and then select **Header Search**.
 2. To replace the image: click the image placeholder block then click Replace to upload or choose an image from the Media Library.
 3. Edit the “Stay Connected” text if you want a different heading.
 4. To update social links: click the Social Media custom block and edit the URLs or icon settings in the block controls.
@@ -41,7 +41,7 @@ On the right, you’ll see a search block and a Categories List block that autom
 Mobile navigation designed to appear when a user taps the hamburger icon in the Main Header
 
 ### Edit Offcanvas Header - step by step
-1. Go to Appearance > Editor > Patterns > Parts and then select **Offcanvas Header**.
+1. Go to Appearance > Editor > Patterns > All template parts and then select **Offcanvas Header**.
 2. Click into the Navigation block inside the offcanvas template part.
 3. In the block toolbar choose the same menu that you use in the Main Header navigation. Using the same menu keeps navigation consistent across desktop and mobile.
 4. Make any additional layout edits you want to the offcanvas area.
