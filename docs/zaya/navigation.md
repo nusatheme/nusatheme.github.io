@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 ---
 # Navigation
 
@@ -28,7 +28,7 @@ To set up and customize the navigation menu in this theme's header, follow these
 This theme also includes an Offcanvas Header, designed to provide a modern and mobile-friendly navigation experience. Just like the standard header navigation, it uses the Navigation Block, allowing you to fully customize the menu items.
 
 To set up and customize the navigation in the offcanvas header, follow this step
-1. Click the hamburger menu icon on the top header to open the offcanvas menu. 
+1. In the editor, go to  **Pattern → Header** then Select the Offcanvas Header template part
    ![offcanvas header navigation](/img/zaya/offcanvas-header-step-1.jpg)
 2. Select a Navigation Menu 
    -  Click on the Navigation block from the left sidebar.
@@ -38,7 +38,9 @@ To set up and customize the navigation in the offcanvas header, follow this step
 3. Once your navigation is added to the offcanvas header, you can edit the menu items, change the layout, or adjust design settings using the block options.
    ![offcanvas header navigation](/img/zaya/offcanvas-header-step-3.jpg)
 :::info
-The offcanvas menu is usually triggered by a menu icon (hamburger icon) on smaller screens
+The offcanvas menu is typically triggered by a hamburger icon on smaller screens.   
+Starting with **version 1.1.0**, the offcanvas has been moved to its own template part. In earlier versions, it was included within the main header template part.
 :::
-
-Make sure your navigation structure in both the regular header and the offcanvas menu stays consistent for a seamless user experience.
+:::tip
+Make sure your navigation structure in both the main header and the offcanvas header stays consistent for a seamless user experience.
+:::
