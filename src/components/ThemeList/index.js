@@ -13,11 +13,6 @@ const Themes = [
     imgUrl: '/img/zaya/cover.jpg'
   },
   {
-    name: 'Nomadica - Wordpress Theme',
-    url: 'docs/nomadica/',
-    imgUrl: '/img/nomadica/cover.jpg'
-  },
-  {
     name: 'Voya - Wordpress Theme',
     url: 'docs/voya/',
     imgUrl: '/img/voya/cover.jpg'

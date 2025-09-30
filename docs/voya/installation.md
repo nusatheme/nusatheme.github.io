@@ -57,7 +57,7 @@ If you try to install the wrong files, you will get the missing ```style.css``` 
 
 The following plugins are required for this theme to function optimally. Please ensure they are installed and activated to fully unlock all features and enhance your website’s capabilities.
 - **Voya Core**<br/>
-  Installing the **Voya Core** plugin is essential for using this theme’s custom blocks. This core plugin provides a variety of custom blocks that add functionality and design options to your site. Without it, the custom blocks won’t be available. Learn more about the features it provides on this [custom blocks page](/docs/category/custom-blocks-2).
+  Installing the **Voya Core** plugin is essential for using this theme’s custom blocks. This core plugin provides a variety of custom blocks that add functionality and design options to your site. Without it, the custom blocks won’t be available. Learn more about the features it provides on this [custom blocks page](/docs/category/custom-blocks-3).
 
 - **[The Icon Block](https://wordpress.org/plugins/icon-block/) by Nick Diego**<br/>
   Icon Block is a flexible WordPress plugin that allows you to easily add icons to your content. Whether it be from the built in library of icons or by pasting in your own custom SVG code.
