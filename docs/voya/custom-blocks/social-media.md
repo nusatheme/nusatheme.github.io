@@ -4,7 +4,7 @@ The Social Media block allows you to add customizable social media icons to your
 from [Bootstrap Icons](https://icons.getbootstrap.com/?q=social), set links to your social media profiles, and customize
 the appearance of the icons.
 <br />
-![social media icon](/img/nomadica/social-media.jpg)
+![social media icon](/img/voya/social-media.jpg)
 
 ## Features
 

@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 # Editor
-**Nomadica** is fully compatible with the WordPress block editor, offering support for wide alignment, custom color palettes, font sizes, and more. With the block editor, you can build visually captivating and high-performing websites featuring creative layouts—without the need for a page builder plugin. Explore our [theme demo site](https://wpdemo.ajufbox.com/nomadica) for inspiration and ideas on how to make the most of these powerful design options.
+**Voya** is fully compatible with the WordPress block editor, offering support for wide alignment, custom color palettes, font sizes, and more. With the block editor, you can build visually captivating and high-performing websites featuring creative layouts—without the need for a page builder plugin. Explore our [theme demo site](https://wpdemo.ajufbox.com/voya) for inspiration and ideas on how to make the most of these powerful design options.
 
 ## Block
 In WordPress, a block is a modular content element that allows you to create and arrange content on your website with ease and flexibility. Each block represents a distinct type of content and style, such as paragraphs, images, headings, galleries, videos, and more. 
@@ -17,7 +17,7 @@ Block Patterns are pre-designed groups of blocks that you can easily add to your
 
 This theme includes predesigned block patterns that contain layouts for common website sections. Instead of manually creating each part of a section—like adding and formatting text, images, and buttons separately—you can insert a ready-made pattern and focus on adjusting only the content and minor design elements.
 
-![available patterns](/img/nomadica/patterns.jpg)
+![available patterns](/img/voya/patterns.jpg)
 
 
 You can find additional design patterns in the [WordPress Pattern Directory](https://wordpress.org/patterns/), where a variety of pre-designed layouts are available to customize your site’s look. 
@@ -63,8 +63,8 @@ This theme includes two style options: Default (light) and Dark. To switch betwe
 
 You can also add some changes to those styles.
 1. In your WordPress dashboard, go to **Appearance → Editor**.
-![edit style step 1](/img/nomadica/editor-style-1.jpg)
+![edit style step 1](/img/voya/editor-style-1.jpg)
 2. Within the Editor, click **Styles** 
-![edit style step 2](/img/nomadica/editor-style-2.jpg)
+![edit style step 2](/img/voya/editor-style-2.jpg)
 3. For a clearer view of your style changes, open the **Style Book** for a detailed preview.
-![edit style step 3](/img/nomadica/editor-style-3.jpg)
+![edit style step 3](/img/voya/editor-style-3.jpg)

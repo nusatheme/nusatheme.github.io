@@ -20,33 +20,33 @@ When you insert the Curated Post block, you can choose from five starter templat
 - Clean grid layout with square (1:1) featured images.  
 - Title, author, and date shown below.  
 - Minimal and simple.  
-![curated post basic template](/img/nomadica/curated-post-basic-template.jpg)
+![curated post basic template](/img/voya/curated-post-basic-template.jpg)
 
 **Postcard**  
 - Vertical “postcard” style with tall featured images (3:4).  
 - Includes category, title, meta (author + date), excerpt, and a “Read More” link.  
 - Perfect for storytelling or editorial-style posts.  
-![curated post postcard template](/img/nomadica/curated-post-postcard-template.jpg)
+![curated post postcard template](/img/voya/curated-post-postcard-template.jpg)
 
 **Snapshot**  
 - Compact card layout with square (1:1) featured image.  
 - Category, title, and meta with a “Read More” overlay.  
 - Ideal for visual-heavy blogs or photo-based posts.  
-![curated post snapshot template](/img/nomadica/curated-post-snapshot-template.jpg)
+![curated post snapshot template](/img/voya/curated-post-snapshot-template.jpg)
 
 **Peek**  
 - Side-by-side layout with the featured image on the left and the content on the right.  
 - Featured image uses a wide 16:9 ratio and includes a category overlay.  
 - The content section displays the author/date, post title, excerpt, and a “Read More” button.  
 - A balanced magazine-style design that combines strong visuals with descriptive text, making it ideal for featured stories or editorial sections.  
-![curated post peek template](/img/nomadica/curated-post-peek-template.jpg)
+![curated post peek template](/img/voya/curated-post-peek-template.jpg)
 
 **Explorer**  
 - Rounded card design with generous spacing.  
 - 4:3 featured image with category overlay.  
 - Includes title, excerpt, and author/date in a modern magazine style.  
 - Great for featured content grids.
-![curated post explorer template](/img/nomadica/curated-post-explorer-template.jpg)
+![curated post explorer template](/img/voya/curated-post-explorer-template.jpg)
 
 ## Slider Option
 You can transform any starter template into a **slider** powered by Swiper.  
