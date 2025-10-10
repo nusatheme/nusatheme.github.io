@@ -46,18 +46,18 @@ If you try to install the wrong files, you will get the missing ```style.css``` 
 
 ### Upload to Wordpress Admin Dashboard
 1. To install your theme, begin by logging into your WordPress admin dashboard. In the dashboard, go to **Appearance → Themes**, where you’ll see an overview of available themes. 
-![installation step 1](/img/voya/installation-step-1.webp)
+![installation step 1](/img/journi/installation-step-1.webp)
 2. Click the **Add New Theme** button near the page title to start the theme installation process. 
 3. Next, on the Add Themes screen, you’ll find the **Upload Theme** button. Click it to reveal the upload options. Choose the theme ZIP file you downloaded earlier, then click Install Now to begin the installation.
-![installation step 2](/img/voya/installation-step-2.webp)
+![installation step 2](/img/journi/installation-step-2.webp)
 4. When the theme is installed, a prompt will appear with an option to activate it immediately. Simply click the Activate link, and your new theme will be live, ready for you to customize and build out your site!
-![installation step 4](/img/voya/installation-step-4.jpg)
+![installation step 4](/img/journi/installation-step-4.jpg)
 
 ## Plug-ins Installation
 
 The following plugins are required for this theme to function optimally. Please ensure they are installed and activated to fully unlock all features and enhance your website’s capabilities.
-- **Voya Core**<br/>
-  Installing the **Voya Core** plugin is essential for using this theme’s custom blocks. This core plugin provides a variety of custom blocks that add functionality and design options to your site. Without it, the custom blocks won’t be available. Learn more about the features it provides on this [custom blocks page](/docs/category/custom-blocks-2).
+- **Journi Core**<br/>
+  Installing the **Journi Core** plugin is essential for using this theme’s custom blocks. This core plugin provides a variety of custom blocks that add functionality and design options to your site. Without it, the custom blocks won’t be available. Learn more about the features it provides on this [custom blocks page](/docs/category/custom-blocks-2).
 
 - **[The Icon Block](https://wordpress.org/plugins/icon-block/) by Nick Diego**<br/>
   Icon Block is a flexible WordPress plugin that allows you to easily add icons to your content. Whether it be from the built in library of icons or by pasting in your own custom SVG code.
@@ -68,19 +68,19 @@ The following plugins are required for this theme to function optimally. Please 
 - **[One Click Demo Import](https://wordpress.org/plugins/one-click-demo-import/)** <br/>
   One Click Demo Import is a simple and efficient WordPress plugin that allows you to quickly import demo content, widgets, and theme settings with a single click. It helps you set up your site to look exactly like the theme demo, making it easier to start customizing without building everything from scratch.  
 
-![install required plugins](/img/voya/install-required-plugin.jpg)
+![install required plugins](/img/journi/install-required-plugin.jpg)
 
 :::info
-The **Icon Block** plugin is required for many Voya block patterns. Please install and activate it to ensure patterns display correctly. This plugin requires **WordPress 6.5 or higher**. Please ensure your site is running WordPress version 6.5+ before installing.
+The **Icon Block** plugin is required for many Journi block patterns. Please install and activate it to ensure patterns display correctly. This plugin requires **WordPress 6.5 or higher**. Please ensure your site is running WordPress version 6.5+ before installing.
 
 **Ninja Form** is used to show newsletter form in the section newsletter, so if you're not planning to add newsletter form to your page or you want to use other plugin for your form, it's not necessary to install this plugin.
 
-**One Click Demo Import** plugin is required to import the demo content for **Voya**. If you prefer to set up your site manually, you don’t need to install this plugin.
+**One Click Demo Import** plugin is required to import the demo content for **Journi**. If you prefer to set up your site manually, you don’t need to install this plugin.
 :::
 <br/>
 
 ## Demo Content
-To help you get started quickly, **Voya** includes demo content that you can import with just a few clicks. This will make your site look similar to the theme demo, so you can start customizing right away.
+To help you get started quickly, **Journi** includes demo content that you can import with just a few clicks. This will make your site look similar to the theme demo, so you can start customizing right away.
 
 ### Before You Begin
 Make sure you have installed and activated the required plugin:  
@@ -95,7 +95,7 @@ Without this plugin, the demo import option will not be available.
 4. Once finished, your site will include demo pages, posts, menus, and widgets.  
 
 ### After Import
-- Your site should now look similar to the **Voya demo**.  
+- Your site should now look similar to the **Journi demo**.  
 - You can start replacing the demo text and images with your own content.  
 - If you don’t need all the demo content, you can safely delete the pages or posts you don’t plan to use.  
 

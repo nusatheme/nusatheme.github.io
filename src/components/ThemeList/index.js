@@ -13,9 +13,9 @@ const Themes = [
     imgUrl: '/img/zaya/cover.jpg'
   },
   {
-    name: 'Voya - Wordpress Theme',
-    url: 'docs/voya/',
-    imgUrl: '/img/voya/cover.jpg'
+    name: 'Journi - Wordpress Theme',
+    url: 'docs/journi/',
+    imgUrl: '/img/journi/cover.jpg'
   }
 ];
 
