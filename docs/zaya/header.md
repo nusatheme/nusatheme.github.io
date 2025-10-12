@@ -50,3 +50,9 @@ Mobile navigation designed to appear when a user taps the hamburger icon in the 
 :::info
 The offcanvas is triggered by the hamburger icon in the Main Header. If you do not see the hamburger on your front end, verify that the Main Header still contains the hamburger icon block or pattern.
 :::
+
+
+## Tutorial
+
+### How to Change Header Width
+<iframe src="https://drive.google.com/file/d/1FFZWChKj_i7Y3E8TsH4kFFQ0OvK4i8Dx/preview" width="800" height="450" allow="autoplay"></iframe>
