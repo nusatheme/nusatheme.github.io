@@ -2,7 +2,7 @@
 
 The **Taxonomy Highlight** block lets you showcase a specific category or tag anywhere on your site. It’s perfect for drawing attention to popular categories or highlighting “top destinations” in a travel blog. You can select a term in the block settings, and the block will automatically display its name and post count.  
 
-![taxonomy highlight](/img/journi/taxonomy-highlight.jpg)
+![taxonomy highlight](/img/wandr/taxonomy-highlight.jpg)
 
 ## How to Add Taxonomy Highlight Block
 1. In the WordPress editor, click the **“+” Add Block** button.  
@@ -15,7 +15,7 @@ The **Taxonomy Highlight** block lets you showcase a specific category or tag an
      Pick from the list of available categories or tags (depending on your selection above).  
 
 
-![taxonomy highlight edit](/img/journi/taxonomy-highlight-edit.jpg)
+![taxonomy highlight edit](/img/wandr/taxonomy-highlight-edit.jpg)
 
 ## Customizing with InnerBlocks
 The Taxonomy Highlight block includes **InnerBlocks**, so you can add any block inside it for a fully custom design.  

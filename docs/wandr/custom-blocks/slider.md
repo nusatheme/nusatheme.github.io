@@ -4,7 +4,7 @@ The Swiper Slider block is a customizable slider powered by Swiper.js, allowing 
 
 <br/>
 
-![slider](/img/journi/slider.jpg)
+![slider](/img/wandr/slider.jpg)
 
 ## Settings
 
@@ -21,10 +21,10 @@ The Swiper Slider block is a customizable slider powered by Swiper.js, allowing 
 
 ## How to Create New Slider
 1. Open the block inserter by clicking the + icon, search for **Swiper Slider** in the search bar, and select the Swiper Slider block.
-![slider step 1](/img/journi/slider-step-1.jpg)
+![slider step 1](/img/wandr/slider-step-1.jpg)
 2. Click **Add New Slide** to create a slide item, then click **Add Content to Slide** to add content. You can insert any block within each slide, such as paragraphs, headings, images, or other blocks. For this tutorial, let’s add image
-![slider step 2](/img/journi/slider-step-2.jpg)
+![slider step 2](/img/wandr/slider-step-2.jpg)
 3. To add more slides quickly, duplicate the first slide as many times as needed, then adjust the content of each slide. Be sure to disable autoplay temporarily to make editing easier.
-![slider step 3](/img/journi/slider-step-3.jpg)
+![slider step 3](/img/wandr/slider-step-3.jpg)
 4. Finally, adjust the slider settings in the right sidebar to match your preferences.
-![slider step 4](/img/journi/slider-step-4.jpg)
+![slider step 4](/img/wandr/slider-step-4.jpg)

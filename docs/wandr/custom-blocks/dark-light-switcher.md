@@ -7,4 +7,4 @@ To use it:
 1. Insert the Dark Light Switch block anywhere on your site (commonly in the header).
 2. Style and position it as needed using block settings.
 3. Save changes—your visitors can now toggle between light and dark themes with a click.
- ![dark-light-switcher](/img/journi/dark-light-switcher.jpg)
+ ![dark-light-switcher](/img/wandr/dark-light-switcher.jpg)
