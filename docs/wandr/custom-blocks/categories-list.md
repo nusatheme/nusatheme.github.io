@@ -2,7 +2,7 @@
 
 The **Categories List** block displays a list of your site’s categories, along with the number of posts in each category. It works similarly to the WordPress Core Categories block but is designed to be easier to style and more flexible for theme integration.  
 
-![categories list](/img/journi/categories-list.jpg)
+![categories list](/img/wandr/categories-list.jpg)
 
 ## How to Add Categories List Block
 1. In the WordPress editor, click the **“+” Add Block** button.  
@@ -35,7 +35,7 @@ The **Categories List** block displays a list of your site’s categories, along
 - Categories are shown as a **list (`ul/li`)** with each category linking to its archive page.  
 - Example output:  
   ```html
-  <ul class="wp-block-journi-category-list">
+  <ul class="wp-block-wandr-category-list">
     <li class="cat-item cat-item-5">
       <a href="/category/travel">Travel</a>
       <span class="cat-item__count">12</span>
@@ -47,7 +47,7 @@ The **Categories List** block displays a list of your site’s categories, along
 ## Styling
 This block has been designed to be theme-friendly, meaning it’s easier for the theme to style consistently compared to the Core Categories block.
 - Typography, spacing, and colors are handled by the theme’s CSS.
-- Developers can target `.wp-block-journi-category-list` and `.cat-item` for custom styling.
+- Developers can target `.wp-block-wandr-category-list` and `.cat-item` for custom styling.
 - Users can apply additional styles via the WordPress Site Editor if needed.
 
 

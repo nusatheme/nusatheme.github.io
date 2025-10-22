@@ -13,9 +13,9 @@ const Themes = [
     imgUrl: '/img/zaya/cover.jpg'
   },
   {
-    name: 'Journi - Wordpress Theme',
-    url: 'docs/journi/',
-    imgUrl: '/img/journi/cover.jpg'
+    name: 'Wandr - Wordpress Theme',
+    url: 'docs/wandr/',
+    imgUrl: '/img/wandr/cover.jpg'
   }
 ];
 
