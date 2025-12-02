@@ -13,9 +13,9 @@ const Themes = [
     imgUrl: '/img/zaya/cover.jpg'
   },
   {
-    name: 'Wandr - Wordpress Theme',
-    url: 'docs/wandr/',
-    imgUrl: '/img/wandr/cover.jpg'
+    name: 'Vara - Wordpress Theme',
+    url: 'docs/vara/',
+    imgUrl: '/img/vara/cover.jpg'
   }
 ];
 
