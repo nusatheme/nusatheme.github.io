@@ -3,7 +3,7 @@ sidebar_position: 8
 ---
 # Pages
 
-The **Wandr** theme comes with several page and site-wide templates that help you control the layout and presentation of your website. Templates determine how different types of content (like posts, archives, and static pages) are displayed. You can use these templates as they are, or customize them in the **Site Editor** to match your needs.
+The **Vara** theme comes with several page and site-wide templates that help you control the layout and presentation of your website. Templates determine how different types of content (like posts, archives, and static pages) are displayed. You can use these templates as they are, or customize them in the **Site Editor** to match your needs.
 
 ## Site-Wide Templates
 

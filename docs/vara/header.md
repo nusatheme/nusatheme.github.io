@@ -3,11 +3,11 @@ sidebar_position: 6
 ---
 # Header
 
-The **Wandr** theme includes multiple header template parts that work together to create a flexible and responsive navigation system. Each template part serves a specific purpose, but they all share the same core elements such as the logo and primary navigation.  
+The **Vara** theme includes multiple header template parts that work together to create a flexible and responsive navigation system. Each template part serves a specific purpose, but they all share the same core elements such as the logo and primary navigation.  
 
 These template parts are **not alternatives** to choose from — they are all active and shown depending on device or scroll behavior.
 
-![header](/img/wandr/header-parts.jpg)
+![header](/img/vara/header-parts.jpg)
 
 ## Header
 The **Header** template part is the main site header.  
@@ -16,7 +16,7 @@ The **Header** template part is the main site header.
 - Contains your site logo or title, primary navigation, and optional elements such as search icon.  
 - This is the header most visitors will see first when landing on your site.  
 
-![header](/img/wandr/header-main.jpg)
+![header](/img/vara/header-main.jpg)
 
 ## Header Sticky
 The **Header Sticky** template part appears when users scroll back up the page.  
@@ -25,7 +25,7 @@ The **Header Sticky** template part appears when users scroll back up the page.
 - Uses the same navigation menu as the main Header, so edits made to navigation are reflected here automatically.  
 - Can be customized separately   
 
-![sticky header](/img/wandr/header-sticky.jpg)
+![sticky header](/img/vara/header-sticky.jpg)
 
 ## Header Mobile Navigation
 The **Header Mobile Navigation** template part is optimized for smaller screens.  
@@ -34,7 +34,7 @@ The **Header Mobile Navigation** template part is optimized for smaller screens.
 - Features a toggle (hamburger) button to open and close the menu.  
 - Navigation links are synced with the main Header, ensuring consistency across devices.  
 
-![mobile header](/img/wandr/header-mobile.jpg)
+![mobile header](/img/vara/header-mobile.jpg)
 
 :::tip
 While you can customize each header template part individually in the **Site Editor**, it’s recommended to keep elements such as your logo and navigation consistent so visitors have a seamless experience across desktop, mobile, and sticky states.

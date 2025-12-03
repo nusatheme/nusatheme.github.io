@@ -7,7 +7,7 @@ The Reading Time block displays an estimated reading time based on the contentâ€
 - **Customizable Label**: You can change the text label (e.g., "Min Reading") to suit your siteâ€™s tone or language.
 - **Front-End Output Only**: The block renders on the front end using a PHP template for accurate server-side calculation.
 
- ![reading-time](/img/wandr/reading-time.jpg)
+ ![reading-time](/img/vara/reading-time.jpg)
 
 ## How to Use
 1. In the Block Editor, insert the Reading Time block into your post or page.
