@@ -17,16 +17,16 @@ To set up and customize the navigation menu in this theme, follow these steps.
 
 1. Go to **Appearance → Editor** in your WordPress dashboard.
 2. Go to **Pattern → Header** then Select the Header template part to access the navigation section of this theme.
-   ![navigation step 2](/img/vara/navigation-step-2.jpg)
+   ![navigation step 2](/img/blogia/navigation-step-2.jpg)
 3. Select a Navigation Menu
    -  Click on the Navigation block.
    -  In the right sidebar, click the three-dot next to the **Menu**.
    -  Choose your navigation menu from the list.
-   ![navigation step 4](/img/vara/navigation-step-3.jpg)
+   ![navigation step 4](/img/blogia/navigation-step-3.jpg)
 4. Add your own links, reorder them, or adjust settings as needed. 
-   ![navigation step 4](/img/vara/navigation-step-4.jpg)
+   ![navigation step 4](/img/blogia/navigation-step-4.jpg)
 5. Review and save changes to ensure your navigation menu aligns with your website's structure and style.
 
 :::tip
-You can repeat these steps to add menu in other template parts like **Header Sticky** and **Header Mobile Navigation**. Make sure your navigation structure in all header parts stays consistent for a seamless user experience.
+You can repeat these steps to add menu in other template parts like **Header Mobile Navigation**. Make sure your navigation structure in all header parts stays consistent for a seamless user experience.
 :::
