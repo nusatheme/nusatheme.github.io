@@ -13,9 +13,9 @@ const Themes = [
     imgUrl: '/img/zaya/cover.jpg'
   },
   {
-    name: 'Vara - Wordpress Theme',
-    url: 'docs/vara/',
-    imgUrl: '/img/vara/cover.jpg'
+    name: 'Blogia - Wordpress Theme',
+    url: 'docs/blogia/',
+    imgUrl: '/img/blogia/cover.jpg'
   }
 ];
 
