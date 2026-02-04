@@ -23,7 +23,6 @@ The **Header Sticky** template part appears when users scroll back up the page.
 
 - Ensures that navigation remains visible for better usability on long pages.  
 - Uses the same navigation menu as the main Header, so edits made to navigation are reflected here automatically.  
-- Can be customized separately   
 
 ![sticky header](/img/oenzy/header-sticky.jpg)
 
