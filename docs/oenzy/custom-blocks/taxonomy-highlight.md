@@ -34,8 +34,8 @@ The term name and post count are inserted automatically, but you can rearrange o
 
 ## Use Cases
 - **Top Categories Section**: Showcase your most important categories on the homepage.  
-- **Featured Tags**: Highlight specific tags (e.g., “Summer Travel” or “Backpacking”) in a grid layout.  
-- **Destination Highlights**: For travel blogs, use multiple Taxonomy Highlight blocks in a grid to display top destinations with images.  
+- **Featured Tags**: Highlight specific tags (e.g., "Photography" or “Tech”) in a grid layout.  
+- **Explore by Topics**: For travel blogs, use multiple Taxonomy Highlight blocks in a grid to display top destinations with images.  
 
 ## Best Practices
 - Use **multiple blocks together in a grid** to highlight a set of categories or tags.  
