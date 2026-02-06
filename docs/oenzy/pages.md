@@ -32,10 +32,6 @@ These templates are available when creating or editing a page:
 - A clean, minimal layout that hides the page title and focuses entirely on content.  
 - Perfect for homepages, promotional pages, or custom-designed landing pages using block patterns.  
 
-### Landing – Footer 2
-- Same as the Landing template but includes the **Footer 2** template part at the bottom.  
-- Great if you want a minimal landing page but still display footer content such as links or contact info.  
-
 ### Pages (Default)
 - The standard page template.  
 - Displays the page title and content, with a sidebar.  
