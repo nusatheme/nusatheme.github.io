@@ -16,6 +16,11 @@ const Themes = [
     name: 'Oenzy - Wordpress Theme',
     url: 'docs/oenzy/',
     imgUrl: '/img/oenzy/cover.jpg'
+  },
+  {
+    name: 'Olara - Wordpress Theme',
+    url: 'docs/olara/',
+    imgUrl: '/img/olara/cover.jpg'
   }
 ];
 
